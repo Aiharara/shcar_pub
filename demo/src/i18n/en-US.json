@@ -1,0 +1,89 @@
+{
+  "public":{
+    "weekdays": [
+      "Today",
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday",
+      "Sunday"
+    ],
+    "frequently-phrase": {
+      "next": "Next →"
+    }
+  },
+  "nav": {
+    "home": "Home",
+    "auto-mall": "Auto Mall",
+    "market-price": "Market Price",
+    "login": "Login",
+    "user-management": "User Management"
+  },
+  "home": {
+    "advantage": {
+      "why-choose-us": "Why choose us",
+      "advantage-1": "Securely",
+      "advantage-1-description": "We will provide a safe and secure service to inspect all vehicles for sale. Each vehicle will be carefully inspected before it is delivered to you. We will provide a safe and secure service to inspect all vehicles for sale. Each vehicle will be carefully inspected before it is delivered to you.",
+      "advantage-2": "Convenient",
+      "advantage-2-description": "We will provide a safe and secure service to inspect all vehicles for sale. Each vehicle will be carefully inspected before it is delivered to you.",
+      "advantage-3": "Cheap",
+      "advantage-3-description": "We will provide a safe and secure service to inspect all vehicles for sale. Each vehicle will be carefully inspected before it is delivered to you. We will provide a safe and secure service to inspect all vehicles for sale. Each vehicle will be carefully inspected before it is delivered to you.",
+      "advantage-4": "Profession",
+      "advantage-4-description": "We will provide a safe and secure service to inspect all vehicles for sale. Each vehicle will be carefully inspected before it is delivered to you."
+    },
+    "user-entry": {
+      "buyer": {
+        "label": "I'm buyer",
+        "login-register": "Login or register as a buyer"
+      },
+      "seller": {
+        "label": "I'm seller",
+        "login-register": "Login or register as a seller"
+      }
+    }
+  },
+  "footer": {
+    "intro": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab accusamus, at atque beatae deleniti dolor ducimus ex expedita, illum ipsum odit possimus quaerat rem rerum, soluta. Distinctio in ipsum sed!",
+    "services": [
+      {
+        "label": "I'm buyer",
+        "navs": [
+          "Auto Mall",
+          "Order List",
+          "Transaction Progress",
+          "After-sales Service"
+        ]
+      },
+      {
+        "label": "I'm seller",
+        "navs": [
+          "Vehicle Valuation",
+          "Vehicle Appraisal",
+          "Sale Process"
+        ]
+      },
+      {
+        "label": "Navigation",
+        "navs": [
+          "Home",
+          "Auto Mall",
+          "FAQ",
+          "My Account"
+        ]
+      }
+    ],
+    "term-of-use": "Term of Use",
+    "privacy-policy": "Privacy Policy"
+  },
+  "auto-mall": {
+    "wholesale": "Wholesale",
+    "auction": "Auction",
+    "selectors": {
+      "select-all": "Select All",
+      "allowed-select": "Allowed Select",
+      "clear-all": "Clear All"
+    }
+  }
+}

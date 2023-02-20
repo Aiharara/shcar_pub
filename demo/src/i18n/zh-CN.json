@@ -1,0 +1,90 @@
+{
+  "public":{
+    "weekdays": [
+      "今天",
+      "星期一",
+      "星期二",
+      "星期三",
+      "星期四",
+      "星期五",
+      "星期六",
+      "星期日"
+    ],
+    "frequently-phrase": {
+      "next": "下一步 →"
+    }
+  },
+  "nav": {
+    "home": "首页",
+    "auto-mall": "汽车商城",
+    "market-price": "市场价格",
+    "login": "登陆",
+    "user-management": "用户管理"
+  },
+  "home": {
+    "advantage": {
+      "why-choose-us": "为什么选择我们",
+      "advantage-1": "安全",
+      "advantage-1-description": "我们将提供安全可靠的服务，检查所有出售的车辆。每辆车在交付给您之前都会经过仔细检查。",
+      "advantage-2": "便捷",
+      "advantage-2-description": "我们将提供安全可靠的服务，检查所有出售的车辆。每辆车在交付给您之前都会经过仔细检查。",
+      "advantage-3": "便宜",
+      "advantage-3-description": "我们将提供安全可靠的服务，检查所有出售的车辆。每辆车在交付给您之前都会经过仔细检查。",
+      "advantage-4": "专业",
+      "advantage-4-description": "我们将提供安全可靠的服务，检查所有出售的车辆。每辆车在交付给您之前都会经过仔细检查。"
+    },
+    "user-entry": {
+      "buyer": {
+        "label": "我要买车",
+        "login-register": "登陆或者注册成为一个买家"
+      },
+      "seller": {
+        "label": "我要卖车",
+        "login-register": "登陆或者注册成为一个卖家"
+      }
+    }
+  },
+  "footer": {
+    "intro": "SH Car是一个专注于交易中国二手车的国际平台，我们将为您的二手车交易提供安全，快捷，便利的服务。",
+    "services": [
+      {
+        "label": "我是买家",
+        "navs": [
+          "汽车商城",
+          "订单列表",
+          "交易进度",
+          "售后服务"
+
+        ]
+      },
+      {
+        "label": "我是卖家",
+        "navs": [
+          "车辆评估",
+          "车辆鉴定",
+          "出售流程"
+        ]
+      },
+      {
+        "label": "导航",
+        "navs": [
+          "首页",
+          "汽车市场",
+          "常见问题",
+          "我的账户"
+        ]
+      }
+    ],
+    "term-of-use": "使用条款",
+    "privacy-policy": "隐私政策"
+  },
+  "auto-mall": {
+    "wholesale": "车行批发",
+    "auction": "拍卖",
+    "selectors": {
+      "select-all": "全选",
+      "allowed-select": "可用全选",
+      "clear-all": "清除所有"
+    }
+  }
+}
